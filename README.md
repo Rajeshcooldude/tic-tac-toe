@@ -10,4 +10,4 @@ Run the front file to open the game and click the play button to start the game 
 now it in turns pops up another window with 3X3 grid which is a layout for the game .
 Now start playing by click the buttons in the grid 
 At the end of the game there might be a winner or game may draw.
-Exit window opos up click yes to close the game.
+Exit window pops up click yes to close the game.
